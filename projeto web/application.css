@@ -1,0 +1,22 @@
+body{
+    width: 95%;
+    margin: auto;
+    background:url(fundo\ do\ site.jpg);
+    font-family: sans-serif;
+    color: white;
+}
+main{
+    background: #000000a3;
+}
+.titulo, .subtitulo {
+    text-align: center;
+}
+.dados{
+    margin: 30px 0;
+    text-align: center;
+    width: 100%;
+}
+.dados table{
+    padding: 10px;
+    margin: 0 auto;
+}
